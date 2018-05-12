@@ -1,0 +1,32 @@
+_repo: A-Proposal-for-the-Better-Supplying-of-Churches-in-Our-Foreign-Plantations-and-for-Converting__31848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berkeley, George
+    alias: Berkley, George
+    birthdate: 1685
+    deathdate: 1753
+    gutenberg_agent_id: '1497'
+    url: http://www.gutenberg.org/2009/agents/1497
+    wikipedia: http://en.wikipedia.org/wiki/George_Berkeley
+description: ''
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31848'
+  lccn: '31008969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Missions -- Bermuda Islands'
+- !lcsh 'Education -- Bermuda Islands'
+title: A Proposal for the Better Supplying of Churches in Our Foreign Plantations,
+  and for Converting the Savage Americans to Christianity, By a College to Be Erected
+  in the Summer Islands, Otherwise Called the Isles of Bermuda
+url: http://www.gutenberg.org/ebooks/31848
