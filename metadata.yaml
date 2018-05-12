@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1497
     wikipedia: http://en.wikipedia.org/wiki/George_Berkeley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31848#A-Proposal-for-the-Better-Supplying-of-Churches-in-Our-Foreign-Plantations-and-for-Converting_
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
 identifiers:
